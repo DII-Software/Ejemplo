@@ -5,4 +5,8 @@ Commit Andres
 
 =======
 Html jajajaja
+<<<<<<< HEAD
 >>>>>>> 41d120c27c7216a2abd7a35987af40d0687e4859
+=======
+hola mundo
+>>>>>>> cff4756b8125f11eaf8925f78d560508377450f9
